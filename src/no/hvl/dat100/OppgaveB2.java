@@ -23,6 +23,7 @@ public class OppgaveB2 {
 			nTall--;
 		}
 		System.out.println("Sum:" + v);
+		
 
 	}
 
